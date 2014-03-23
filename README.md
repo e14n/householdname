@@ -1,0 +1,4 @@
+householdname
+=============
+
+Implement DynDNS protocol
